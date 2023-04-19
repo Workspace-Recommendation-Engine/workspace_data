@@ -1,0 +1,265 @@
+,Workspace_Id,Name,Rating,Review_count,Price_range,Category,Address,Latitude,Longitude,Next_status
+0,0,Eugenio Trias Municipal Public Library,3.8,800,0,Public library,"P.º de Fernán Núñez, 24",40.4167046,-3.6791607,Opens 8:30 AM Mon
+1,1,Iván de Vargas Library,4.3,313,0,Public library,"C. de San Justo, 5",40.4139907,-3.7097496,Opens 8:30 AM Mon
+2,2,Biblioteca Mario Vargas Llosa,3.8,178,0,Public library,"C. de Barceló, 4",40.4267129,-3.6993938,Opens 8:30 AM Mon
+3,3,Pedro Salinas Library,4.0,337,0,Public library,"Gta. de la Prta de Toledo, 1",40.4070743,-3.7108938,Opens 9 AM Mon
+4,4,Acuna Public Library,2.9,118,0,Public library,"C. de Quintana, 9",40.4279318,-3.716937,Opens 9 AM Mon
+5,5,Biblioteca Pública Municipal David Gistau,3.8,118,0,Public library,"Calle de Núñez de Balboa, 40",40.4268682,-3.6820928,Opens 8:30 AM Mon
+6,6,Biblioteca Pública Ruiz Egea,3.1,87,0,Public library,"C. de Raimundo Fernández Villaverde, 6",40.4466083,-3.7028748,Opens 9 AM Mon
+7,7,Elena Fortún Public Library,4.2,361,0,Public library,"C. del Dr. Esquerdo, 189",40.4034753,-3.672219,Opens 9 AM Mon
+8,8,Francisco Ibáñez Public Library,3.8,98,0,Library,"C. de Mantuano, 51",40.4482137,-3.6762612,Opens 8:30 AM Mon
+9,9,RAFAEL ALBERTI Public Library,4.0,263,0,Public library,"C. de Sangenjo, 38",40.4879816,-3.6981455,Opens 9 AM Mon
+10,10,Municipal Public Library María Zambrano,4.0,129,0,Library,"Pl. de Donoso, 5",40.4690599,-3.697343,Opens 8:30 AM Mon
+11,11,Dámaso Alonso Municipal Public Library,4.2,102,0,Public library,"C. de Manuel Ferrero, 1",40.4674581,-3.6845998,Opens 8:30 AM Mon
+12,12,Biblioteca Popular de los Jardines del arquitecto Herrero Palacios,4.3,16,0,Public library,"Av. de Menéndez Pelayo, 22",40.4155377,-3.6783905,Opens 6 AM Mon
+13,13,Public Library Carabanchel Luis Rosales,4.3,477,0,Public library,"C. de Antonia Rodríguez Sacristán, 7, 9",40.373533,-3.7477012,Closes 7 PM
+14,14,Public Library Luis Martin Santos,4.2,313,0,Public library,"Pl. Antonio María Segovia, 2",40.3810712,-3.6137717,Closes 7 PM
+15,15,Biblioteca Escuelas Pías - UNED,4.0,100,0,Public library,"C. del Sombrerete, 15",40.4081203,-3.703257,Opens 9 AM Mon
+16,16,Bibliometro Nuevos Ministerios,3.5,2,0,Public library,"C. de Raimundo Fernández Villaverde, 69",40.4465895,-3.6921115,Opens 1:30 PM Mon
+17,17,José Hierro Library,4.2,491,0,Public library,"Av. de Rafaela Ybarra, 43",40.3818526,-3.7106068,Closes 7 PM
+18,18,María Moliner Public Library,4.3,346,0,Public library,"C. Villalonso, 16",40.3496382,-3.7099287,Opens 9 AM Mon
+19,19,José Saramago Municipal Public Library,4.0,122,0,Public library,"Av. de Monforte de Lemos, 38",40.4796138,-3.7094713,Opens 8:30 AM Mon
+20,20,Biblioteca Regional Joaquín Leguina,3.2,225,0,Public library,"C. de Ramírez de Prado, 3",40.3999045,-3.6908323,Opens 9 AM Mon
+21,21,Municipal Public Library Pablo Neruda,4.0,172,0,Public library,"C. de Ascao, 4",40.4293549,-3.6416207,Opens 8:30 AM Mon
+22,22,Municipal Public Library Gloria Fuertes,4.0,93,0,Public library,"Av. de Logroño, 179",40.4607649,-3.5937723,Opens 8:30 AM Mon
+23,23,Biblioteca Pública Municipal José Hierro,4.4,142,0,Public library,"C. de María Sevilla Diago, 13",40.433403,-3.6106315,Opens 8:30 AM Mon
+24,24,Municipal Public Library Manuel Vazquez Montalban,3.7,119,0,Library,"C. de Francos Rodríguez, 67",40.4570045,-3.7107185,Opens 8:30 AM Mon
+25,25,Biblioteca Pública Hortaleza,3.9,36,0,Public library,"CEPA Dulce Chacón, C. Abertura, s/n",40.4771855,-3.6496008,Opens 9 AM Mon
+26,26,Public Library VALLECAS,4.2,339,0,Public library,"Av. de Rafael Alberti, 36",40.3846652,-3.6431375,Opens 9 AM Mon
+27,27,Public Library Moratalaz,4.4,116,0,Public library,"C. del Corregidor Alonso de Tobar, 5",40.4040484,-3.649459,Opens 9 AM Mon
+28,28,Municipal Public Library Portazgo,4.1,63,0,Public library,"C. Cantalapiedra, 11",40.3932133,-3.655431,Opens 8:30 AM Mon
+29,29,IE Library,3.1,32,0,University library,"Calle de María de Molina, 31 BIS",40.437836,-3.6821721,Opens 8 AM Mon
+30,30,Public Library Ángel González,4.1,215,0,Public library,"C. de Granja de Torrehermosa, 1",40.3969211,-3.7663642,Opens 8:30 AM Mon
+31,31,Municipal Library La Elipa,4.2,75,0,Public library,"C. de Ntra. Sra. del Villar, 6",40.4233867,-3.6517515,Opens 8:30 AM Mon
+32,32,Biblioteca Pública Municipal Ciudad Lineal,4.2,36,0,Public library,"C. de los Hermanos García Noblejas, 14",40.4363074,-3.6372316,Opens 8:30 AM Mon
+33,33,Municipal Public Library Gabriel Garcia Marquez,4.2,109,0,Library,"Pl. del Pueblo, 2",40.3667535,-3.7014879,Opens 8:30 AM Mon
+34,34,Biblioteca Pública Municipal San Blas,3.8,71,0,Public library,"C. de San Román del Valle, 8",40.419672,-3.6215429,Opens 8:30 AM Mon
+35,35,Study Room Luis García Berlanga,3.0,141,0,Public library,"C. Viña Virgen, 2",40.4652902,-3.6940561,Closes 9 PM
+36,36,Municipal Public Library Canillejas,4.1,90,0,Public library,"C/ de Boltaña, 23",40.4463572,-3.6120407,Opens 8:30 AM Mon
+37,37,Hemeroteca Municipal de Madrid,4.4,12,0,Public library,"patio norte, C. del Conde Duque, 9-11",40.4283496,-3.7104952,Opens 8:30 AM Mon
+38,38,Biblioteca Pública Municipal San Fermín,4.6,116,0,Public library,"Av. de San Fermín, 10",40.3708589,-3.6928889,Opens 8:30 AM Mon
+39,39,Municipal Public Library snub,3.7,103,0,Public library,"Calle del Gral. Ricardos, 252",40.3829968,-3.7419258,Opens 8:30 AM Mon
+40,40,Miguel Delibes Public Library,3.7,94,0,Public library,"C. del Arroyo Belincoso, 11",40.4097842,-3.6529165,Opens 8:30 AM Mon
+41,41,Francisco Ayala Public Library,4.4,75,0,Public library,"Blvr. de Indalecio Prieto, 21",40.3997404,-3.6210915,Opens 8:30 AM Mon
+42,42,Biblioteca Pública Municipal Paco Rabal,4.7,3,0,Public library,"C. de Felipe de Diego, 11",40.3792264,-3.66149,Opens 8:30 AM Mon
+43,43,Municipal Public Library Vicálvaro,4.2,82,0,Public library,"C. Villardondiego, 36",40.4052922,-3.6086153,Opens 8:30 AM Mon
+44,44,Biblioteca Pública Municipal Huerta de la Salud,4.2,117,0,Public library,"C. del Mar de las Antillas, 10",40.4752157,-3.6457765,Opens 8:30 AM Mon
+45,45,Gerardo Diego Municipal Public Library,4.0,73,0,Public library,"C. del Monte Aya, 12",40.37788,-3.62267,Opens 8:30 AM Mon
+46,46,Biblioteca Pública Benito Pérez Galdos,3.2,33,0,Library,"C. del Conde Duque, 9",40.4278708,-3.7111912,Opens 8:30 AM Mon
+47,47,Central Library of the UNED,4.0,102,0,Library,"P.º de la Senda del Rey, 5",40.4360948,-3.7349703,Opens 9 AM Mon
+48,48,Biblioteca del Real Jardín Botanico,4.2,5,0,Public library,"C. Claudio Moyano, 1",40.4097622,-3.6894019,Opens 8:30 AM Mon
+49,49,Biblioteca Instituto Americano,3.3,3,0,Library,"C. de Miguel Ángel, 8",40.4342359,-3.6910453,Opens 11 AM Mon
+50,50,"Biblioteca General del Ministerio de Transportes, Movilidad y Agenda Urbana",5.0,1,0,Public library,"P.º de la Castellana, 67",40.4435818,-3.6935795,Opens 9 AM Mon
+51,51,Municipal Public Library Aluche,3.8,100,0,Library,"C. de Camarena, 10",40.3954681,-3.7562414,Opens 8:30 AM Mon
+52,52,Aula de Estudios,4.0,55,0,Public library,"C. de la Batalla del Salado, 13",40.4025453,-3.6955275,Opens 9 AM Mon
+53,53,Biblioteca Histórica Municipal de Madrid,5.0,1,0,Public library,"C. del Conde Duque, 9, patio central, planta 1",40.4272558,-3.7107181,Opens 8:30 AM Mon
+54,54,Sala de Lectura Paseo de Extremadura,3.5,35,0,Public library,"P.º de Extremadura, 128",40.4112085,-3.7356521,Opens 8 AM Mon
+55,55,Sala de Estudio Corín Tellado,4.3,4,0,Public library,"C. de Sta. Pola, 22",40.4323694,-3.7371319,Closes 9 PM
+56,56,Biblioteca del Campus Madrid Puerta de Toledo UC3M,3.9,9,0,University library,"Ronda de Toledo, 1",40.4067681,-3.7109921,Opens 9 AM Mon
+57,57,Centro de Documentación de las Artes Escénicas y de la Música,4.0,9,0,Public library,"C. de Alfonso XII, 3-5, edificio B",40.4090309,-3.6870911,Opens 9 AM Mon
+58,58,Biblioteca Pública Municipal Maria Lejarraga,4.0,140,0,Library,"C. de la Princesa de Éboli, 29",40.4903606,-3.6554345,Opens 8:30 AM Mon
+59,59,Biblioteca Municipal de Coslada,3.9,141,0,Public library,"Av. de los Príncipes de España, 16",40.4258716,-3.5483397,Opens 9 AM Mon
+60,60,UNED Humanities Library,3.6,38,0,Library,"C. de Argumosa, 1",40.408564,-3.7007274,Opens 9 AM Mon
+61,61,"Biblioteca Central, Universidad San Pablo-CEU",4.2,20,0,Library,"C. de Julián Romea, 22",40.4429485,-3.7179494,Closes 9 PM
+62,62,Library Museo Nacional Centro de Arte Reina Sofía,3.7,171,0,Library,"Rda. de Atocha, 2",40.4074697,-3.6947142,Opens 9 AM Mon
+63,63,Sala de Lectura Maqueda,3.9,68,0,Public library,"C. de Maqueda, 5",40.3946398,-3.764965,Opens 9 AM Mon
+64,64,Sala De Lectura Cayetano Pando,4.0,21,0,Public library,"C. Cayetano Pando, 8",40.4028766,-3.7465429,Opens 8 AM Mon
+65,65,Biblioteca Municipal Benito Pérez Galdós,4.4,41,0,Public library,"C. Volturno, 2",40.4084017,-3.7969827,Closes 7 PM
+66,66,Municipal Library El Pinar,4.4,20,0,Public library,"Calle Ministro Francisco Fernández Ordóñez, s/n",40.3464559,-3.8062332,Opens 3 PM Mon
+67,67,Biblioteca María Zambrano - Universidad Complutense de Madrid,4.2,333,0,University library,"Complutense University of Madrid, Calle del Prof. Aranguren, s/n",40.449241,-3.733279,Closes 9 PM
+68,68,Biblioteca Tomás Navarro Tomás,3.5,33,0,Library,"Centro de Ciencias Humanas y Sociales del CSIC, C. de Albasanz, 26-28",40.4366326,-3.6290854,Opens 9 AM Mon
+69,69,Biblioteca EOI Jesús Maestro,4.5,2,0,Library,"C. Jesús Maestro, 5",40.4405955,-3.7114554,Opens 1:30 PM Mon
+70,70,Biblioteca francesa Saint-Louis Madrid,4.8,4,0,Library,"C. de Padilla, 9",40.4317206,-3.6850659,Opens 11 AM Thu
+71,71,Victor Espinós Musical Library (Countduke),3.8,153,0,Library,"C. del Conde Duque, 11",40.4283019,-3.7109502,Opens 8:30 AM Mon
+72,72,Bibliometro Legazpi,4.7,3,0,Library,"Pl. de Legazpi, 9",40.3916574,-3.6953826,Opens 1:30 PM Mon
+73,73,UCM Biblioteca Histórica Marqués de Valdecilla,4.5,24,0,Library,"C. del Noviciado, 3",40.4254782,-3.7078981,Opens 9:30 AM Mon
+74,74,Bibliometro Moncloa,4.0,4,0,Library,"Intercambiador de Moncloa, C. de Isaac Peral, 1",40.4352043,-3.7190648,Opens 1:30 PM Mon
+75,75,Librería Eleutheria,5.0,2,0,Library,"C. de los Abades, 10",40.4101875,-3.7050393,Opens 6 PM
+76,76,Municipal Library Miguel Delibes,2.9,21,0,Public library,"C. la Iglesia, 7",40.350136,-3.8287112,Opens 9 AM Mon
+77,77,Comillas Pontifical University Library,3.6,21,0,Library,"C. de Sta. Cruz de Marcenado, 25",40.4297294,-3.7123768,Opens 8 AM Mon
+78,78,Sara Montiel Cultural Center,4.2,157,0,Public library,"Carr. de Boadilla del Monte, 40",40.3995525,-3.7750248,Opens 9 AM Mon
+79,79,Servicio de Biblioteca Universitaria de la UPM,5.0,1,0,University library,"C. Ramiro de Maeztu, 7, Planta 1",40.448701,-3.7196132,Opens 9 AM Mon
+80,80,European Documentation Centre of the Community of Madrid,4.2,5,0,Records storage facility,"Calle de Castelló, 123",40.4385436,-3.6806118,Opens 9 AM Mon
+81,81,Biblioteca ETSI Minas y Energía UPM,4.3,7,0,University library,"C. de Ríos Rosas, 21",40.4421362,-3.7003147,Opens 8 AM Mon
+82,82,Sala de Estudios Fernando Vizcaíno Casas,4.1,39,0,Library,"C. de Blasco de Garay, 40",40.4333558,-3.7113602,Closes 9:30 PM
+83,83,UPM South Campus Library,4.3,99,0,Public library,"C. de Alan Turing, s/n",40.3903453,-3.627015,Closes 9:30 PM
+84,84,Biblioteca Municipal José Saramago,3.8,41,0,Public library,"Av. de Covibar, 10",40.3648251,-3.5491041,Opens 10 AM Mon
+85,85,Museum of the National Library,4.5,140,0,Library,"P.º de Recoletos, 20, 22",40.4236361,-3.6898055,Opens 10 AM Mon
+86,86,Biblioteca UESD,4.9,7,0,Library,"C. San Buenaventura, 9",40.4121779,-3.7158366,Opens 8:30 AM Mon
+87,87,Biblio Camara,2.6,8,0,Library,"C. de Pedro Salinas, 11",40.4576738,-3.6621157,Opens 9 AM Mon
+88,88,Ministry of Education Library,3.9,9,0,Library,"C. de San Agustín, 5",40.4149883,-3.696806,Opens 9 AM Mon
+89,89,Biblioteca Pública Municipal María Moliner,4.7,35,0,Public library,"Pl. del Perú, 13",40.3658305,-3.4846736,Opens 9 AM Mon
+90,90,Biblioteca,2.7,7,0,Library,"C. de la Costa Brava, 2",40.4957408,-3.7016973,Opens 9 AM Mon
+91,91,"Biblioteca de la ETSI de Caminos, Canales y Puertos UPM - Edificio Moncloa",5.0,1,0,University library,"Campus, Calle del Prof. Aranguren, 3",40.4471391,-3.7318673,Opens 8:30 AM Mon
+92,92,Red de Bibliotecas y Archivos del CSIC,5.0,5,0,University library,"C. de Joaquín Costa, 22",40.4441327,-3.684887,Opens 8 AM Mon
+93,93,Biblioteca Municipal Princesa Doña Leonor,4.1,25,0,Public library,"C. de los Mártires, 1",40.40649,-3.87574,Closes 9 PM
+94,94,"Biblioteca de la ETSI de Montes, Forestal y del Medio Natural UPM",4.6,5,0,University library,"C. de José Antonio Novais, 10",40.4509187,-3.7204252,Opens 8:30 AM Mon
+95,95,Fundación Federico García Lorca,4.3,4,0,Library,"C. del Pinar, 23",40.4411146,-3.6882572,Opens 9:30 AM Mon
+96,96,Cafés Guayacán - Tostadores de Café,4.9,147,0,Coffee roasters,"C. de Fernández de los Ríos, 26",40.4351644,-3.7070123,Closes 2 PMReopens 5 PM
+97,97,Randall Coffee Roasters,4.7,201,0,Coffee shop,"C. de Vallehermoso, 36",40.4343153,-3.7083542,Closes 7 PM
+98,98,Hola Coffee Fourquet,4.4,801,1,Coffee shop,"Calle del Dr. Fourquet, 33",40.4070207,-3.6990835,Closes 8 PM
+99,99,Santa Kafeina,4.8,309,1,Coffee shop,"Calle de Viriato, 37",40.4359419,-3.7001877,Closes 5 PM
+100,100,Urbano Specialty Coffee,4.5,738,0,Coffee shop,"C. de Sta. Bárbara, 8",40.424344,-3.7014136,Closes 7 PM
+101,101,East Crema Coffee - Hermosilla (Specialty Coffee Café de especialidad en Madrid),4.6,218,0,Coffee shop,"C. de Hermosilla, 38",40.4262363,-3.6831145,Closes 8 PM
+102,102,Bianchi Kiosko Caffé,4.7,445,0,Coffee shop,"C. de San Joaquín, 9",40.4243932,-3.70164,Closes 8 PM
+103,103,Osom Coffee Atelier (Café De Especialidad Madrid),4.7,800,0,Cafe,"Calle de Sta. Teresa, 2, Bajo-Local 4",40.4262329,-3.6965183,Closes 8 PM
+104,104,FELIZ COFFEE Specialty Coffee,4.7,776,1,Cafe,"C. de Lope de Vega, 2",40.415239,-3.6990265,Closes 7:30 PM
+105,105,The Fix - Café de Especialidad,4.6,923,2,Coffee shop,"Calle de Luisa Fernanda, 15",40.425722,-3.7149933,Closes 7 PM
+106,106,Luso Coffee Shop | Madrid,4.4,168,1,Coffee shop,"C. de Atocha, 60",40.411997,-3.6986691,Closes 7 PM
+107,107,Enjoy-Working,5.0,6,0,Coworking space,"C. del Condado de Treviño, 9, Local 3",40.4794068,-3.6728601,Closes 9 PM
+108,108,COWORKING ESPACIO A4,4.7,6,0,Coworking space,"Avenida de Manoteras n° 10, edificio A, módulo 108",40.488316,-3.671116,Closes 9 PM
+109,109,sHub Madrid,5.0,3,0,Coworking space,"C. de Labastida, 1",40.4884941,-3.6898437,Closes 8 PM
+110,110,Cink Coworking,4.9,56,0,Coworking space,"Av. de Manoteras, 24",40.4865425,-3.6669427,Closes 10 PM
+111,111,Coworking Espacio Geranios,4.6,72,0,Coworking space,"Av. de Asturias, 45, bajo",40.4697029,-3.6964734,Closes 7 PM
+112,112,OLASMKT COWORKING,5.0,3,0,Coworking space,"Av. de Pío XII, 92",40.4717788,-3.6733475,Closes 8 PM
+113,113,Coworking LOOM Torre Chamartín,4.8,24,0,Coworking space,"C. de Dulce Chacón, 55",40.4864509,-3.6715834,Closes 7 PM
+114,114,The Shed CoWorking,4.7,143,0,Coworking space,"C. de Hermosilla, 48, 1º Derecha",40.4261105,-3.6818737,Closes 8 PM
+115,115,NOMAD COWORKING,5.0,59,0,Coworking space,"C. del Poeta Joan Maragall, 56, BAJO",40.4625244,-3.6911947,Closes 7 PM
+116,116,First workplaces - Plaza de Castilla First,4.0,5,0,Coworking space,"P.º de la Castellana, 216",40.4667052,-3.6880544,Closes 6:30 PM
+117,117,Coworking Snap,5.0,9,0,Coworking space,"C. de Torregalindo, 1",40.4619539,-3.6697664,Closes 8 PM
+118,118,"Spaces - Madrid, Spaces María de Molina",4.6,17,0,Coworking space,"P.º de la Castellana, 163",40.461593,-3.6912031,Closes 6 PM
+119,119,Business Center Balder Madrid,4.6,29,0,Coworking space,"Calle de José Abascal, 44, 1ª Planta",40.4380359,-3.6942321,Closes 7 PM
+120,120,Chamberí Coworking,5.0,1,0,Coworking space,"C. del Marqués de Lema, 11",40.4462083,-3.7062698,Closes 10 PM
+121,121,Utopicus Paseo de la Habana,4.6,36,0,Coworking space,"P.º de La Habana, 9, 11",40.4496332,-3.6894479,Closes 6 PM
+122,122,"White Lab | Coworking y Centro de Negocios en Cuzco, Bernabéu y Orense",5.0,1,0,Coworking space,"P.º de la Castellana, 166, B",40.4594521,-3.6889892,Closes 7 PM
+123,123,Impact Hub Picasso,4.6,40,0,Coworking space,"Plaza Pablo Ruiz Picasso, 1",40.4504633,-3.6927753,Closes 7 PM
+124,124,Working Space,4.0,13,0,Coworking space,"C. de Pascual Hermanos, 3",40.5385113,-3.6351001,Closes 8 PM
+125,125,Cloudworks Cibeles,5.0,15,0,Coworking space,"C. de Pedro Muñoz Seca, 2",40.4200752,-3.690743,Closes 6 PM
+126,126,Pecsa Lab,2.6,10,0,Coworking space,"C. de Manuel Tovar, 36, 2º Planta",40.4889575,-3.6909688,Closes 9 PM
+127,127,Flipco Coworking,1.0,1,0,Coworking space,"C. del Capitán Blanco Argibay, 69",40.466222,-3.7019058,Closes 7 PM
+128,128,la raum de chamberi coworking,4.3,3,0,Coworking space,"Calle de Modesto Lafuente, 7",40.4362781,-3.6965118,Closes 9 PM
+129,129,Utopicus José Abascal,4.7,18,0,Coworking space,"Calle de José Abascal, 56",40.4377881,-3.6921908,Closes 6 PM
+130,130,Coworking Wellsportclub Madrid,5.0,3,0,Coworking space,"Wellsportclub, Av. del Dr. Federico Rubio y Galí, 59",40.4527999,-3.7130183,Closes 10 PM
+131,131,Cink Coworking,4.6,159,0,Coworking space,"P.º de la Castellana, 194",40.461669,-3.6890639,Closes 10 PM
+132,132,Sharing CO,4.7,140,0,Coworking space,"C. de Caracas, 6",40.43062,-3.694732,Closes 6 PM
+133,133,Cink Coworking,4.7,140,0,Coworking space,"C. de Henri Dunant, 17",40.4600943,-3.6840115,Closes 10 PM
+134,134,Bigwork Coworking,5.0,10,0,Coworking space,"Av. del General Perón, 14, Local",40.4522553,-3.6973145,Closes 8 PM
+135,135,Coworking Espíritu23,4.6,114,0,Coworking space,"C. del Espíritu Santo, 23",40.4254204,-3.7046592,Closes 6:30 PM
+136,136,Utopicus,4.5,86,0,Coworking space,"C. del Príncipe de Vergara, 112",40.4397618,-3.678353,Closes 6 PM
+137,137,Ecoworking,4.1,15,0,Coworking space,"P.º de La Habana, 200",40.4627928,-3.6797148,Closes 7 PM
+138,138,WeWork - Espacio de oficinas y coworking,4.4,130,0,Coworking space,"P.º de la Castellana, 77",40.4481508,-3.6925417,Closes 6 PM
+139,139,Area Coworking,4.9,25,0,Coworking space,"C. de Tomás Bretón, 50-52",40.3971345,-3.6917148,Closes 7 PM
+140,140,Coworking Bernabéu,4.9,32,0,Coworking space,"C. de Pedro Teixeira, 16",40.4548282,-3.6917933,Closes 9 PM
+141,141,NETWORKIA Business Center Cuzco,5.0,20,0,Coworking space,"C. del Poeta Joan Maragall, 23",40.4578593,-3.6924973,Closes 7 PM
+142,142,Utopicus Francisco Silvela,4.9,22,0,Coworking space,"C/ de Francisco Silvela, 42",40.4333969,-3.6729631,Closes 6 PM
+143,143,My Coworking,4.8,5,0,Coworking space,"Calle de María Tubau, 3, 1ª plta",40.5135503,-3.6725673,Closes 6 PM
+144,144,Integra,5.0,1,0,Coworking space,"C. de Juan Montalvo, 9",40.4474801,-3.7104956,Closes 7 PM
+145,145,WeWork - Espacio de oficinas y coworking,4.4,231,0,Coworking space,"P.º de la Castellana, 43",40.4354529,-3.6896221,Closes 6 PM
+146,146,Coworking LOOM Huertas,4.6,60,0,Coworking space,"C. de las Huertas, 11",40.414036,-3.700693,Closes 7 PM
+147,147,Mandarina Hub Madrid,5.0,1,0,Coworking space,"C. de Velázquez, 119, 1b",40.4371774,-3.6833351,Closes 9 PM
+148,148,WeWork - Espacio de oficinas y coworking,4.5,89,0,Coworking space,"C. de Eloy Gonzalo, 27",40.434714,-3.7005151,Closes 6 PM
+149,149,Union Coworking,5.0,18,0,Coworking space,"C. de Blasco de Garay, 94",40.4392007,-3.7109788,Closes 9 PM
+150,150,CoolWork,5.0,3,0,Coworking space,"Calle de José Abascal, 41",40.4384244,-3.696033,Closes 7 PM
+151,151,Coworking LOOM Eucalipto,4.7,28,0,Coworking space,"C. del Eucalipto, 33",40.4557788,-3.6643572,Closes 7 PM
+152,152,Cink Coworking,4.9,29,0,Coworking space,"C. del Limonero, 22",40.462054,-3.6961825,Closes 10 PM
+153,153,Cink Coworking,4.6,83,0,Coworking space,"Calle de Núñez de Balboa, 120",40.4382007,-3.6815876,Closes 10 PM
+154,154,GlueWork Madrid,4.6,44,0,Coworking space,"Calle López de Hoyos 42, Entrada por Edison, 3",40.4399404,-3.6809834,Closes 2 PMReopens 3 PM
+155,155,Utopicus Orense,4.7,46,0,Coworking space,"C. de Orense, 62",40.460538,-3.6936973,Closes 6 PM
+156,156,Goya Smart Coworking,4.9,59,0,Coworking space,"Calle de Núñez de Balboa, 35A, Planta 5 Oficina A1",40.4253867,-3.6828617,Closes 7 PM
+157,157,La Industrial coworking,4.5,67,0,Coworking space,"Calle de San Andrés, 8, Local",40.4260389,-3.7037389,Closes 8 PM
+158,158,Madhat,4.7,75,0,Coworking space,"Calle Naranjo 9, Calle Araucaria, 22",40.4604506,-3.6995092,Closes 9 PM
+159,159,cool inquieto,4.7,34,0,Coworking space,"C. del Pez, 38",40.424382,-3.7068263,Closes 9 PM
+160,160,Coworkingabogados.es,5.0,6,0,Coworking space,"P.º de la Castellana, 161, 1º C",40.4613377,-3.6912279,Closes 8 PM
+161,161,Workcase Coworking,5.0,24,0,Coworking space,"P.º del Rey, 4",40.4206875,-3.7179716,Closes 9 PM
+162,162,Coworking LOOM Salamanca,4.6,69,0,Coworking space,"Calle de Don Ramón de la Cruz, 38",40.4288935,-3.6818352,Closes 7 PM
+163,163,Talent Garden Madrid,4.5,168,0,Coworking space,"C. de Juan de Mariana, 15",40.398326,-3.6863441,Closes 6 PM
+164,164,TAMPICO34 coworking,5.0,2,0,Coworking space,"C. de Tampico, 34",40.4436703,-3.6344767,Closes 6 PM
+165,165,Coworking Storemore,5.0,9,0,Coworking space,"C. de Francisco Gervás, 6",40.5312389,-3.6508385,Closes 8 PM
+166,166,B2WORK Territory Coworker,4.8,45,0,Coworking space,"C. del Dr. Esquerdo, 170",40.4027137,-3.674215,Closes 8:30 PM
+167,167,Emprende&Co,5.0,2,0,Coworking space,"P.º de La Habana, 15",40.4500339,-3.6882365,Closes 7 PM
+168,168,Correoslabs,4.5,87,0,Coworking space,"C. de la Sierra de Atapuerca, 13",40.5024441,-3.6713282,Closes 8 PM
+169,169,Monday Chamberí,5.0,4,0,Coworking space,"Calle de Sta Engracia, 23",40.4305957,-3.6970597,Closes 6 PM
+170,170,Impact Hub Alameda,4.5,390,0,Business center,"C. de la Alameda, 22",40.4105274,-3.6939574,Closes 7 PM
+171,171,Green Coffees Specialty Coffee,4.8,172,0,Cafeteria,"Av. del Dr. Federico Rubio y Galí, 32",40.4508788,-3.7094777,Closes 7:30 PM
+172,172,1000 Cups Specialty Coffee & Food,4.2,255,0,Dog cafe,"Cmo. de Ganapanes, 1",40.4702921,-3.7147359,Closes 8 PM
+173,173,Randall Coffee Roasters,4.7,201,0,Coffee shop,"C. de Vallehermoso, 36",40.4343153,-3.7083542,Closes 7 PM
+174,174,Nica Specialty Coffee,5.0,65,0,Cafeteria,"C. de Sánchez Pacheco, 55",40.4476836,-3.6722272,Closes 6 PM
+175,175,Urbano Specialty Coffee,4.5,738,0,Cafe,"C. de Sta. Bárbara, 8",40.424344,-3.7014136,Closes 7 PM
+176,176,Taruffi,4.1,273,0,Coffee shop,"Av. de Monforte de Lemos, 36, Local 100",40.4796415,-3.7075889,Closes 10 PM
+177,177,Espresso Cafe - Specialty Coffee,4.7,74,0,Cafe,"C/ de Donoso Cortés, 62",40.4364472,-3.7124529,Closes 6 PM
+178,178,East Crema Coffee - Hermosilla (Specialty Coffee Café de especialidad en Madrid),4.6,218,0,Coffee shop,"C. de Hermosilla, 38",40.4262363,-3.6831145,Closes 8 PM
+179,179,FELIZ COFFEE Specialty Coffee,4.7,776,1,Cafe,"C. de Lope de Vega, 2",40.415239,-3.6990265,Closes 7:30 PM
+180,180,Hola Coffee Fourquet,4.4,801,1,Coffee shop,"Calle del Dr. Fourquet, 33",40.4070207,-3.6990835,Closes 8 PM
+181,181,La Deseada Specialty Coffee,4.8,149,0,Cafe,"Calle de José Abascal, 53",40.4383059,-3.6939322,Closes 6 PM
+182,182,Cafés Tornasol | Specialty Coffee Madrid,4.7,313,0,Cafe,"C. de Sta. Isabel, Nº5, Planta Baja",40.4115944,-3.6986562,Closes 8 PM
+183,183,UMAMI SPECIALTY COFFEE,4.8,567,2,Coffee shop,"C. de la Alameda, 1",40.4124553,-3.693843,Closes 7 PM
+184,184,East Crema Coffee - Preciados (Specialty Coffee Café de especialidad en Madrid),4.9,54,0,Cafeteria,"C. de Preciados, 33",40.4196019,-3.7067856,Closes 5 PM
+185,185,Noburu specialty coffee,4.9,58,0,Coffee shop,"C. del Dos de Mayo, 9",40.4262226,-3.7042445,Closes 8 PM
+186,186,Sood Coffee (Café de especialidad / Specialty Coffee),4.9,107,0,Cafeteria,"C. de Menorca, 22",40.419273,-3.6765259,Closes 7 PM
+187,187,Wilko Speciality Coffee,4.5,178,0,Coffee shop,"C. de Fernández de los Ríos, 40",40.4351757,-3.7083646,Closes 7:30 PM
+188,188,The Fix - Café de Especialidad,4.6,923,2,Coffee shop,"Calle de Luisa Fernanda, 15",40.425722,-3.7149933,Closes 7 PM
+189,189,Pulso Café - Specialty Coffee,4.9,95,0,Cafeteria,"C. de Ventura Rodríguez, 22",40.4245193,-3.714366,Closes 7 PM
+190,190,PASTORA — Specialty coffee y vinos naturales,4.9,148,0,Coffee shop,"Carrera de San Francisco, 12",40.4109492,-3.7130563,Closes 9 PM
+191,191,Makis Coffee Shop,4.2,254,0,Coffee shop,"C. de Embajadores, 56",40.4077661,-3.7043091,Closes 1:30 PMReopens 4 PM
+192,192,10.10 COFFEE,4.2,147,0,Cafe,"Calle de Lagasca, 42",40.4250325,-3.6853063,Closes 7 PM
+193,193,Osom Coffee Cantine (café de especialidad),4.7,347,0,Cafe,"C. de Moratín, 38, Bajo 3",40.4125596,-3.695297,Closes 8 PM
+194,194,BRUTAL SPECIALTY COFFEE,4.5,86,0,Coffee shop,"Pl. del Ángel, 5",40.4144218,-3.7021457,Closes 8 PM
+195,195,Hey My Coffee,4.8,79,0,Coffee shop,"Calle del General Díaz Porlier, 34",40.4280291,-3.6768286,Closes 1 PMReopens 3 PM
+196,196,HAT COFFEE - Specialty Coffee,4.8,78,0,Coffee shop,"C. de Padilla, 68",40.4310132,-3.6742542,Closes 8 PM
+197,197,Cafeteando,4.9,259,1,Coffee shop,"Plaza de Olavide, 10",40.4331743,-3.7006257,Closes 1 PMReopens 3 PM
+198,198,Santa Kafeina,4.8,309,1,Coffee shop,"Calle de Viriato, 37",40.4359419,-3.7001877,Closes 5 PM
+199,199,Dot Café Bar,4.6,768,2,Coffee shop,"C. de Eugenio Sellés, 6",40.3960039,-3.6988582,Closes 11 PM
+200,200,Drømme Kaffe House - Café de especialidad,4.8,361,0,Cafeteria,"C. de Juana Doña, 8",40.396747,-3.6929015,Closes 8 PM
+201,201,Utøpico - Specialty Coffee,4.8,171,0,Cafeteria,"Calle de Juan Bravo, 27",40.4328503,-3.6800421,Closes 7 PM
+202,202,Bô Coffee,4.2,701,0,Cafeteria,"C. de Espronceda, 16",40.4405396,-3.6977732,Closes 7 PM
+203,203,Syra Coffee Santa Isabel,4.9,274,0,Coffee shop,"C. de Sta. Isabel, 15",40.4107823,-3.6980992,Closes 8 PM
+204,204,Osom Coffee Atelier (Café De Especialidad Madrid),4.7,800,0,Cafe,"Calle de Sta. Teresa, 2, Bajo-Local 4",40.4262329,-3.6965183,Closes 8 PM
+205,205,East Crema Coffee - Almirante (Specialty Coffee Café de especialidad en Madrid),4.6,195,0,Cafeteria,"Calle del Almte., 10",40.4223943,-3.6945469,Closes 8 PM
+206,206,Gosto Café,4.7,68,0,Coffee shop,"C. de la Palma, 47",40.4264476,-3.705591,Closes 7 PM
+207,207,Agrado Café,4.5,392,0,Cafe,"C. de Embajadores, 14",40.4099917,-3.7064681,Closes 9 PM
+208,208,Círculo Coffee Studio,4.9,90,0,Cafe,"C. de las Infantas, 30, Local 02",40.4203812,-3.6985889,Closes 6:30 PM
+209,209,Ambu Coffee,4.4,331,0,Coffee shop,"C. del Pez, 36",40.4242162,-3.706317,Closes 8 PM
+210,210,ÖSS Kaffe Madrid,4.8,96,0,Cafe,"Calle de Manuel Cortina, 1",40.4307388,-3.6990571,Closes 7 PM
+211,211,Syra Coffee - Espartinas,5.0,103,0,Coffee shop,"C. de Espartinas, 6",40.4243134,-3.6792994,Closes 8 PM
+212,212,Syra Coffee - Rios Rosas,5.0,169,0,Coffee shop,"C. de Ríos Rosas, 36",40.4415569,-3.6982425,Closes 8 PM
+213,213,Ambu Coffee 3,4.6,118,0,Coffee shop,"C. de las Huertas, 17",40.4138574,-3.6997539,Closes 8 PM
+214,214,Pan y Pepinillos Café,4.7,121,0,Coffee shop,"C. de El Escorial, 2",40.4237639,-3.7027066,Closes 6 PM
+215,215,GEISHA Specialty Coffee,4.9,323,0,Cafeteria,"C. de las Navas de Tolosa, 6, LOCAL, IZQUIERDA",40.4192576,-3.7065808,Closes 6 PM
+216,216,Cero Coffee Roasters - Tostadores de café,4.9,178,0,Coffee store,"C. de Alcántara, 16",40.4269147,-3.6737892,Closes 3 PMReopens 5 PM
+217,217,East Crema Coffee - Diego de León 12 (Specialty Coffee Café de especialidad en Madrid),4.6,39,0,Cafeteria,"Calle de Diego de León, 12",40.4348677,-3.6847529,Closes 8 PM
+218,218,DOSIS CAFE,4.8,234,0,Cafe,"Calle de Gonzalo de Córdoba, 3",40.4323347,-3.703262,Closes 8 PM
+219,219,Real Coffee,4.4,84,0,Coffee shop,"C/ de Donoso Cortés, 1",40.4359811,-3.7047251,Closes 7:30 PM
+220,220,Luso Coffee Shop | Madrid,4.4,168,1,Coffee shop,"C. de Atocha, 60",40.411997,-3.6986691,Closes 7 PM
+221,221,Ambu Coffee 2,4.5,145,0,Coffee shop,"Calle de Núñez de Balboa, 28",40.425495,-3.6826311,Closes 8 PM
+222,222,Slow Café Madrid - Specialty Coffee Shop,4.7,230,0,Cafeteria,"C. del Mediodía Grande, 20",40.4101444,-3.7115889,Closes 7 PM
+223,223,Cafelito,4.7,467,0,Coffee shop,"C. del Sombrerete, 20",40.4083729,-3.7027369,Closes 9 PM
+224,224,FOUR Madrid — Specialty coffee & Natural wine,4.7,253,0,Espresso bar,"C. de Calderón de la Barca, 8",40.416017,-3.7111534,Closes 6 PM
+225,225,Café & Té,3.2,919,2,Coffee shop,"C. del Arenal, 20",40.4175955,-3.7072171,Closes 10:30 PM
+226,226,DABOV Specialty Coffee Spain,4.8,300,1,Cafe,"C. de Sta. Isabel, 42",40.4101176,-3.6974377,Closes 7 PM
+227,227,Café & Té,3.1,592,2,Coffee shop,"C. de la Princesa, 3",40.425201,-3.712473,Closes 9 PM
+228,228,Natif Coffee & Kitchen,4.7,373,0,Coffee shop,"Calle de Sta. Teresa, 2, Bajo- Local 5",40.4261424,-3.6964425,Closes 8 PM
+229,229,Brownie Coffee,4.1,39,0,Coffee shop,"C. de Hermosilla, 26",40.4262018,-3.6849261,Closes 2 PMReopens 3:30 PM
+230,230,Aroma and Bread,4.6,671,1,Coffee shop,"Calle de Apodaca, 10",40.427252,-3.7006069,Closes 8 PM
+231,231,Novell,4.5,939,1,Espresso bar,"Av. de la Ciudad de Barcelona, 196",40.4003672,-3.6734662,Closes 8:30 PM
+232,232,ACID Bakehouse,3.7,563,0,Coffee shop,"Calle de la Magdalena, 27",40.4124737,-3.7003581,Closes 8 PM
+233,233,Panisimo,3.9,598,1,Coffee shop,"C. de Atocha, 52",40.4122,-3.69935,Closes 10 PM
+234,234,East Crema Coffee - Conde Peñalver (Specialty Coffee Café de especialidad en Madrid),4.8,32,0,Cafeteria,"C. del Conde de Peñalver, 20",40.4271357,-3.6753246,Closes 8 PM
+235,235,Scarlett | Real Food • Specialty Coffee | Restaurante - Cafetería - Brunch - Desayunos - Saludable - Healthy,4.6,773,2,Brunch,"Pl. del Emperador Carlos V, 10",40.4088529,-3.6927178,Closes 9:30 PM
+236,236,Barehua | Brunch Bakery Specialty Coffee,4.6,546,0,Brunch,"C. del León, 23",40.4132586,-3.6990719,Closes 2 PMReopens 5 PM
+237,237,Loops and Coffee,3.0,2,0,Donuts,"C/ Bravo Murillo, 3 Junto a la Glorieta de Quevedo",40.434235,-3.704552,Closes 8 PM
+238,238,Religion Coffee SHOP,4.4,41,0,Cafe,"C. del Príncipe de Vergara, 16",40.4247051,-3.6799952,Closes 8 PM
+239,239,80’s coffee,4.1,596,1,Coffee shop,"C. de Alcalá, 346",40.4343978,-3.6451708,Closes 10 PM
+240,240,Cafetería Jamaica - Coffee Shop -,3.8,307,0,Coffee store,"Glorieta Pintor Sorolla, 4",40.4351776,-3.6984045,Closes 12 AM
+241,241,2930 Coffee,4.7,62,0,Cafeteria,"C/ de Donoso Cortés, 4",40.4361379,-3.7048672,Closes 8 PM
+242,242,Juan Valdez Café,4.2,655,1,Coffee shop,"P.º de la Florida, 2, Stand 5",40.421403,-3.7198588,Closes 9:30 PM
+243,243,Siniestro | Cafe de Especialidad - Specialty Coffee,4.9,94,0,Coffee shop,"C. del Conde Duque, Nº 5",40.4261768,-3.7114126,Closes 2 PMReopens 4 PM
+244,244,GRANIER,3.8,547,1,Bakery,"C. del Mesón de Paredes, 5",40.4116391,-3.7051241,Closes 9 PM
+245,245,Cafés Pozo,4.8,73,0,Coffee store,"C. de Fernando el Católico, 15",40.4338431,-3.7079409,Closes 2 PMReopens 5 PM
+246,246,Cafe & Tapas,2.8,589,2,Cafe,"Calle de Goya, 11",40.4257422,-3.6882448,Closes 11 PM
+247,247,Cafetería y salón de té Icafé,4.2,340,1,Coffee store,"C. de Nicolás Sánchez, 69",40.3832207,-3.7057382,Closes 9:30 PM
+248,248,Hola Coffee Roastery,5.0,19,0,Coffee roasters,"C. de Sepúlveda, 109, Local",40.4042497,-3.7457707,Closes 5 PM
+249,249,Bou Café,4.1,8,0,Cafe,"C. del Dr. Esquerdo, 34",40.4232701,-3.6690838,Closes 9 PM
+250,250,Colonial Overseas - Tea and coffee shop,4.7,218,0,Tea store,"C. de José Ortega y Gasset, 92",40.4295746,-3.6718111,Closes 2:30 PMReopens 4 PM
+251,251,La Flor del Pan,4.5,189,1,Coffee shop,"C. de Argensola, 17",40.4257853,-3.6946038,Closes 5:30 PM
+252,252,DARK Coffee Garage ( CAFE DE ESPECIALIDAD) [Specialty Coffee],5.0,28,0,Cafe,"C. de Manuela Malasaña, 39",40.4288171,-3.7057345,Closes 8 PM
+253,253,FECA Specialty Coffee,4.9,52,0,Coffee shop,"C. de Ferrer del Río, 23",40.435215,-3.6714547,Closes 7 PM
+254,254,Nommad Cafe - Specialty Coffee,3.5,407,2,Restaurant,"C. de Alcalá, 107",40.421984,-3.6825485,Closes 12 AM
+255,255,Santagloria Coffee & Bakery,4.6,96,0,Espresso bar,"C. de San Bernardo, 58",40.4254117,-3.7072309,Closes 8 PM
+256,256,Syra Coffee - Ferraz,4.9,165,0,Cafeteria,"C. de Ferraz, 84",40.4299238,-3.7208001,Closes 8 PM
+257,257,Cafés La Mexicana,4.5,196,0,Coffee store,"C. de Illescas, 51",40.3961333,-3.7646792,Closes 1:40 PMReopens 5 PM
+258,258,Cafeteria Fanatico,4.6,235,1,Coffee shop,"C. de Alfonso Gómez, 15",40.4390789,-3.6291818,Closes 3:45 PM
+259,259,Harina,3.9,434,2,Coffee shop,"C. de Velázquez, 61",40.4292623,-3.6840496,Closes 9 PM
+260,260,The Coffee Corner,4.3,314,1,Coffee shop,"Av. de Valladolid, 41",40.4286304,-3.7296667,Closes 9 PM
+261,261,The Bear and the Madroño,4.4,590,1,Espresso bar,"C. del Doce de Octubre, 16",40.4156875,-3.6759561,Closes 10:30 PM
+262,262,Cafés Pozo,4.6,52,0,Coffee store,"C. de Miguel Arredondo, 4",40.3949938,-3.6959925,Closes 2 PMReopens 5 PM
+263,263,Cafés La Mexicana,4.6,112,0,Coffee store,"Calle de Fuencarral, 115",40.4298249,-3.7028894,Closes 1:40 PMReopens 5 PM
